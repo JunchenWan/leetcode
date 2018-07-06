@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a864f48e-c144-42e4-84b9-a7c6ca96a473" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/#1-100/#71simplifypath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#101-200/#120minimumTotal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#201-300/#220containsNearbyAlmostDuplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#201-300/#223computeArea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#201-300/#229majorityElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#701-800/#793preimagesizeFZF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#301-400/#397integerReplacement.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,6 +121,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_cn$_72Edit_distance.coverage" NAME="#72Edit_distance Coverage Results" MODIFIED="1524804920981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_weekly87_01.coverage" NAME="#weekly87_01 Coverage Results" MODIFIED="1527990357601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_60permutation_.coverage" NAME="#60permutation* Coverage Results" MODIFIED="1527046062211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_cn$_335isSelfCrossing.coverage" NAME="#335isSelfCrossing Coverage Results" MODIFIED="1530845666308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#301-400" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_45jump.coverage" NAME="#45jump Coverage Results" MODIFIED="1528277574492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_134canCompleteCircuit.coverage" NAME="#134canCompleteCircuit Coverage Results" MODIFIED="1529655513503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_307Numarray.coverage" NAME="#307Numarray Coverage Results" MODIFIED="1530517438660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -144,56 +140,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="#120minimumTotal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/#101-200/#120minimumTotal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="#223computeArea.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/#201-300/#223computeArea.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="39" lean-forward="true" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="#220containsNearbyAlmostDuplicate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/#201-300/#220containsNearbyAlmostDuplicate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="#793preimagesizeFZF.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/#701-800/#793preimagesizeFZF.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="#229majorityElement.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/#201-300/#229majorityElement.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="#71simplifypath.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="#71simplifypath.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/#1-100/#71simplifypath.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="#335isSelfCrossing*.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unfiling/#335isSelfCrossing*.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="#397integerReplacement.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/#301-400/#397integerReplacement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -211,8 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/#weekly89_3.py" />
-        <option value="$PROJECT_DIR$/#weekly89_1.py" />
         <option value="$PROJECT_DIR$/#weekly89_2.py" />
         <option value="$PROJECT_DIR$/#852peakIndexInMountaiArray.py" />
         <option value="$PROJECT_DIR$/#83deleteDuplicates.py" />
@@ -262,6 +229,8 @@
         <option value="$PROJECT_DIR$/#701-800/#793preimagesizeFZF.py" />
         <option value="$PROJECT_DIR$/#201-300/#229majorityElement.py" />
         <option value="$PROJECT_DIR$/#1-100/#71simplifypath.py" />
+        <option value="$PROJECT_DIR$/#301-400/#335isSelfCrossing.py" />
+        <option value="$PROJECT_DIR$/#301-400/#397integerReplacement.py" />
       </list>
     </option>
   </component>
@@ -274,11 +243,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1296" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="295" />
     <option name="y" value="23" />
-    <option name="width" value="1296" />
-    <option name="height" value="2281" />
+    <option name="width" value="1440" />
+    <option name="height" value="824" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -298,12 +267,12 @@
             <path>
               <item name="LeetCode-cn" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-cn" type="462c0819:PsiDirectoryNode" />
-              <item name="#1-100" type="462c0819:PsiDirectoryNode" />
+              <item name="#301-400" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-cn" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-cn" type="462c0819:PsiDirectoryNode" />
-              <item name="#701-800" type="462c0819:PsiDirectoryNode" />
+              <item name="unfiling" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -330,7 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.#71simplifypath">
+  <component name="RunManager" selected="Python.#335isSelfCrossing">
     <configuration name="#1two_sum" type="PythonConfigurationType" factoryName="Python">
       <module name="LeetCode-cn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -350,7 +319,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="#307Numarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="#335isSelfCrossing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode-cn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,12 +327,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#301-400" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#307Numarray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#301-400/#335isSelfCrossing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -447,19 +416,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.#1two_sum" />
-      <item itemvalue="Python.#307Numarray" />
       <item itemvalue="Python.#401readBinaryWatch" />
       <item itemvalue="Python.#475findradius" />
       <item itemvalue="Python.#793preimagesizeFZF" />
       <item itemvalue="Python.#71simplifypath" />
+      <item itemvalue="Python.#335isSelfCrossing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.#335isSelfCrossing" />
         <item itemvalue="Python.#71simplifypath" />
         <item itemvalue="Python.#793preimagesizeFZF" />
         <item itemvalue="Python.#475findradius" />
         <item itemvalue="Python.#401readBinaryWatch" />
-        <item itemvalue="Python.#307Numarray" />
       </list>
     </recent_temporary>
   </component>
@@ -486,17 +455,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1296" y="0" width="1296" height="2304" extended-state="0" />
+    <frame x="295" y="23" width="1440" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32896653" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2081651" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2081651" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32896653" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32848486" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.34051037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.35121602" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -632,7 +601,7 @@
           <option name="timeStamp" value="90" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="91" />
+      <option name="time" value="115" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -660,9 +629,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/#weekly89_3.py" />
-    <entry file="file://$PROJECT_DIR$/#weekly89_1.py" />
-    <entry file="file://$PROJECT_DIR$/#weekly89_2.py" />
     <entry file="file://$PROJECT_DIR$/#852peakIndexInMountaiArray.py" />
     <entry file="file://$PROJECT_DIR$/#83deleteDuplicates.py" />
     <entry file="file://$PROJECT_DIR$/#85maximalRectangle.py" />
@@ -726,42 +692,57 @@
     <entry file="file://$PROJECT_DIR$/#101-200/#120minimumTotal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/#201-300/#223computeArea.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
-          <caret line="47" column="39" lean-forward="true" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+          <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/#201-300/#220containsNearbyAlmostDuplicate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/#701-800/#793preimagesizeFZF.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/#201-300/#229majorityElement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/#301-400/#335isSelfCrossing.py" />
     <entry file="file://$PROJECT_DIR$/#1-100/#71simplifypath.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unfiling/#335isSelfCrossing*.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#301-400/#397integerReplacement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
