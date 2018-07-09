@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a864f48e-c144-42e4-84b9-a7c6ca96a473" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/#301-400/#397integerReplacement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#201-300/#205isIsomorphic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#601-700/#647countSubstrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#801-900/#856scoreOfParentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#801-900/#858mirrorreflection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#801-900/#859buddystrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#801-900/#868transpose.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,6 +60,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_cn$_82deleteDuplicates.coverage" NAME="#82deleteDuplicates Coverage Results" MODIFIED="1529199242656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_63Unique_path2.coverage" NAME="#63Unique_path2 Coverage Results" MODIFIED="1524881456354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_37sudoku.coverage" NAME="#37sudoku Coverage Results" MODIFIED="1526893065880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_cn$_868transpose.coverage" NAME="#868transpose Coverage Results" MODIFIED="1531105705833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#801-900" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_279Perfect_square.coverage" NAME="#279Perfect_square Coverage Results" MODIFIED="1524799920312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_22generateParenthesis.coverage" NAME="#22generateParenthesis Coverage Results" MODIFIED="1526893061300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_413Arithmetic.coverage" NAME="#413Arithmetic Coverage Results" MODIFIED="1524899151211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -85,6 +91,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_cn$_784lettercasepermutation.coverage" NAME="#784lettercasepermutation Coverage Results" MODIFIED="1525747982314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_830largeGroupPositions.coverage" NAME="#830largeGroupPositions Coverage Results" MODIFIED="1525751286782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_122maxprofit.coverage" NAME="@122maxprofit Coverage Results" MODIFIED="1529655520325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_cn$_477totalHammingDistance.coverage" NAME="#477totalHammingDistance Coverage Results" MODIFIED="1530879822897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#401-500" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_60permutation.coverage" NAME="#60permutation Coverage Results" MODIFIED="1525242464687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_600findIntegers_.coverage" NAME="#600findIntegers* Coverage Results" MODIFIED="1527146748393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_42trap.coverage" NAME="#42trap Coverage Results" MODIFIED="1528180384028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -121,7 +128,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_cn$_72Edit_distance.coverage" NAME="#72Edit_distance Coverage Results" MODIFIED="1524804920981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_weekly87_01.coverage" NAME="#weekly87_01 Coverage Results" MODIFIED="1527990357601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_60permutation_.coverage" NAME="#60permutation* Coverage Results" MODIFIED="1527046062211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_cn$_335isSelfCrossing.coverage" NAME="#335isSelfCrossing Coverage Results" MODIFIED="1530845666308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#301-400" />
+    <SUITE FILE_PATH="coverage/LeetCode_cn$_335isSelfCrossing.coverage" NAME="#335isSelfCrossing Coverage Results" MODIFIED="1530879147981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#301-400" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_45jump.coverage" NAME="#45jump Coverage Results" MODIFIED="1528277574492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_134canCompleteCircuit.coverage" NAME="#134canCompleteCircuit Coverage Results" MODIFIED="1529655513503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_cn$_307Numarray.coverage" NAME="#307Numarray Coverage Results" MODIFIED="1530517438660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -139,35 +146,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_cn$_801MinSwaptoSortedTwoSeq.coverage" NAME="#801MinSwaptoSortedTwoSeq Coverage Results" MODIFIED="1525244330465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="#71simplifypath.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/#1-100/#71simplifypath.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="#335isSelfCrossing*.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unfiling/#335isSelfCrossing*.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="#397integerReplacement.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/#301-400/#397integerReplacement.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <replaceStrings>
@@ -180,13 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/#weekly89_2.py" />
-        <option value="$PROJECT_DIR$/#852peakIndexInMountaiArray.py" />
-        <option value="$PROJECT_DIR$/#83deleteDuplicates.py" />
-        <option value="$PROJECT_DIR$/#84largestRectangleArea.py" />
-        <option value="$PROJECT_DIR$/#85maximalRectangle.py" />
-        <option value="$PROJECT_DIR$/#88merge.py" />
-        <option value="$PROJECT_DIR$/#91numDecodings.py" />
         <option value="$PROJECT_DIR$/@122maxprofit.py" />
         <option value="$PROJECT_DIR$/#121maxprofit.py" />
         <option value="$PROJECT_DIR$/#123maxprofit.py" />
@@ -231,6 +203,13 @@
         <option value="$PROJECT_DIR$/#1-100/#71simplifypath.py" />
         <option value="$PROJECT_DIR$/#301-400/#335isSelfCrossing.py" />
         <option value="$PROJECT_DIR$/#301-400/#397integerReplacement.py" />
+        <option value="$PROJECT_DIR$/#601-700/#647countSubstrings.py" />
+        <option value="$PROJECT_DIR$/#201-300/#205isIsomorphic.py" />
+        <option value="$PROJECT_DIR$/#401-500/#477totalHammingDistance.py" />
+        <option value="$PROJECT_DIR$/#801-900/#868transpose.py" />
+        <option value="$PROJECT_DIR$/#801-900/#856scoreOfParentheses.py" />
+        <option value="$PROJECT_DIR$/#801-900/#858mirrorreflection.py" />
+        <option value="$PROJECT_DIR$/#801-900/#859buddystrings.py" />
       </list>
     </option>
   </component>
@@ -243,11 +222,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="295" />
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="824" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1296" />
+    <option name="width" value="1296" />
+    <option name="height" value="2304" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -257,6 +235,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,7 +246,17 @@
             <path>
               <item name="LeetCode-cn" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-cn" type="462c0819:PsiDirectoryNode" />
-              <item name="#301-400" type="462c0819:PsiDirectoryNode" />
+              <item name="#201-300" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-cn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-cn" type="462c0819:PsiDirectoryNode" />
+              <item name="#401-500" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-cn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-cn" type="462c0819:PsiDirectoryNode" />
+              <item name="#801-900" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-cn" type="b2602c69:ProjectViewProjectNode" />
@@ -278,7 +267,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -299,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.#335isSelfCrossing">
+  <component name="RunManager" selected="Python.#868transpose">
     <configuration name="#1two_sum" type="PythonConfigurationType" factoryName="Python">
       <module name="LeetCode-cn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -338,7 +326,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="#401readBinaryWatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="#477totalHammingDistance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode-cn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,31 +334,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#401-500" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#401readBinaryWatch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="#475findradius" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode-cn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#475findradius.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#401-500/#477totalHammingDistance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,21 +383,40 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="#868transpose" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode-cn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#801-900" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#801-900/#868transpose.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.#1two_sum" />
-      <item itemvalue="Python.#401readBinaryWatch" />
-      <item itemvalue="Python.#475findradius" />
       <item itemvalue="Python.#793preimagesizeFZF" />
       <item itemvalue="Python.#71simplifypath" />
       <item itemvalue="Python.#335isSelfCrossing" />
+      <item itemvalue="Python.#477totalHammingDistance" />
+      <item itemvalue="Python.#868transpose" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.#868transpose" />
+        <item itemvalue="Python.#477totalHammingDistance" />
         <item itemvalue="Python.#335isSelfCrossing" />
         <item itemvalue="Python.#71simplifypath" />
         <item itemvalue="Python.#793preimagesizeFZF" />
-        <item itemvalue="Python.#475findradius" />
-        <item itemvalue="Python.#401readBinaryWatch" />
       </list>
     </recent_temporary>
   </component>
@@ -455,17 +443,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="295" y="23" width="1440" height="824" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1296" y="0" width="1296" height="2304" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32896653" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2081651" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20726784" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32896653" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32848486" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.35121602" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.39712918" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -485,25 +472,25 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.3053173" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.3053173" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32896653" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32896653" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32896653" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32896653" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32957748" />
-      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32896653" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -629,13 +616,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/#852peakIndexInMountaiArray.py" />
-    <entry file="file://$PROJECT_DIR$/#83deleteDuplicates.py" />
-    <entry file="file://$PROJECT_DIR$/#85maximalRectangle.py" />
-    <entry file="file://$PROJECT_DIR$/#84largestRectangleArea.py" />
-    <entry file="file://$PROJECT_DIR$/#88merge.py" />
-    <entry file="file://$PROJECT_DIR$/#91numDecodings.py" />
-    <entry file="file://$PROJECT_DIR$/@122maxprofit.py" />
     <entry file="file://$PROJECT_DIR$/#121maxprofit.py" />
     <entry file="file://$PROJECT_DIR$/#123maxprofit.py" />
     <entry file="file://$PROJECT_DIR$/#851loudandrich.py" />
@@ -725,13 +705,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/#301-400/#335isSelfCrossing.py" />
-    <entry file="file://$PROJECT_DIR$/#1-100/#71simplifypath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unfiling/#335isSelfCrossing*.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -742,7 +715,63 @@
     <entry file="file://$PROJECT_DIR$/#301-400/#397integerReplacement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#1-100/#71simplifypath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#401-500/#477totalHammingDistance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#201-300/#205isIsomorphic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#801-900/#868transpose.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#801-900/#859buddystrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#801-900/#858mirrorreflection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#801-900/#856scoreOfParentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="97" selection-start-line="23" selection-start-column="97" selection-end-line="23" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#601-700/#647countSubstrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
